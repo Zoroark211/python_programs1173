@@ -1,0 +1,1 @@
+https://classic.clinicaltrials.gov/api/query/full_studies?expr=AREA%5bLeadSponsorName%5dGilead%20OR%20AREA%5bCollaboratorName%5dGilead&min_rnk=1&max_rnk=100&ALL=all&fmt=json

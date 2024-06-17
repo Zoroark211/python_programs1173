@@ -1,0 +1,22 @@
+{
+  "cars": [
+    {
+      "make": "BMW",
+      "model": "3 Series",
+      "year": 2020,
+      "color": "White"
+    },
+    {
+      "make": "Audi",
+      "model": "A4",
+      "year": 2019,
+      "color": "Silver"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": 2021,
+      "color": "Gray"
+    }
+  ]
+}
